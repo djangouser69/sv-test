@@ -13,6 +13,7 @@
     "tailwind CSS",
     "component libraries",
     "scoped styles",
+    "cheap and sooo scalable through cloudflare, we could have dozens of sites up and running for just a couple of bucks per month",
   ]);
 
   let i = $state();
